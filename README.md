@@ -32,6 +32,9 @@ Start here if you're curious about my indie dev journey:
 
 I'm a lifelong learner in finance — reading books and writing programs to detect trading signals and navigate the markets.
 
+Check out my reading notes:
+👉 [Book Notes](https://github.com/CaledoniaProject/book-notes)
+
 📡 A site is coming soon. Stay tuned.
 
 ---
